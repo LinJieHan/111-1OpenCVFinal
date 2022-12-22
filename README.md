@@ -3,5 +3,9 @@
 
 # 執行方法：
 1. 下載本專案
-2. pip install -r requirements.txt
-3. python main.py 執行專案
+'git init'
+'git clone https://github.com/LinJieHan/111-1OpenCVFinal.git'
+2. 編譯所需之函式庫
+'pip install -r requirements.txt'
+3. 執行專案
+'python main.py'
